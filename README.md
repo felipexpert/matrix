@@ -1,6 +1,6 @@
-HASKELL PROJ - Ultra Power Matrix Utilities
+Ultra Power Matrix Utilities
 ======
-
+<strong style="text-align: right;">HASKELL</strong>
 <strong>Applies the most basic matrix operations, through cli interaction.</strong>
 
 <p>Contains all basic matrix operations (including finding determinant using La Place algorithm)<p>

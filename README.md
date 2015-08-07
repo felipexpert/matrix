@@ -18,5 +18,5 @@ Ultra Power Matrix Utilities
 <p>You may also feed it with file contents to find out its matrix determinant, to do it: </p>
 <pre>	cat ../matrixTextFiles/01.txt | runhaskell MainDet.hs</pre>
 <hr>
-<p>Another way to run the program, through the compiled files, you can go to the bin directory and do: </p>
+<p>Another way to run the program, through the compiled files, is going to the bin directory and doing: </p>
 <pre>	./MainAll</pre>

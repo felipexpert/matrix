@@ -1,9 +1,9 @@
 Ultra Power Matrix Utilities
 ======
-<strong style="text-align: right;">HASKELL</strong>
-<strong>Applies the most basic matrix operations, through cli interaction.</strong>
+<p><strong>HASKELL</strong></p>
+<p><strong>Applies the most basic matrix operations, through cli interaction.</strong></p>
 
-<p>Contains all basic matrix operations (including finding determinant using La Place algorithm)<p>
+<p>Contains all the basic matrix operations (including finding determinant using La Place algorithm)<p>
 <p>The principal Haskell module is Matrix, which includes all the matrix logics.
    Another important Module is Formatter, which wraps all the input formatting and validation to 
    achieve the interface (cli) requirements</p>
